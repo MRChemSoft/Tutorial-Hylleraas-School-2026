@@ -1,0 +1,11 @@
+name: hylleraas_2026
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python>=3.10
+  - jupyterlab
+  - ipykernel
+  - matplotlib
+  - numpy
+  - scipy
